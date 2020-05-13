@@ -1,5 +1,5 @@
 # First program in Python
 
-.[/python-logo.png](Python)
+!(Python)[./python-logo.png]
 
 Aprendendo a programar em Python
